@@ -1,0 +1,13 @@
+C:\Users\just_\source\repos\ClassmatesLab1\ClassmatesLab1\bin\Debug\netcoreapp3.1\ClassmatesLab1.exe
+C:\Users\just_\source\repos\ClassmatesLab1\ClassmatesLab1\bin\Debug\netcoreapp3.1\ClassmatesLab1.deps.json
+C:\Users\just_\source\repos\ClassmatesLab1\ClassmatesLab1\bin\Debug\netcoreapp3.1\ClassmatesLab1.runtimeconfig.json
+C:\Users\just_\source\repos\ClassmatesLab1\ClassmatesLab1\bin\Debug\netcoreapp3.1\ClassmatesLab1.runtimeconfig.dev.json
+C:\Users\just_\source\repos\ClassmatesLab1\ClassmatesLab1\bin\Debug\netcoreapp3.1\ClassmatesLab1.dll
+C:\Users\just_\source\repos\ClassmatesLab1\ClassmatesLab1\bin\Debug\netcoreapp3.1\ClassmatesLab1.pdb
+C:\Users\just_\source\repos\ClassmatesLab1\ClassmatesLab1\obj\Debug\netcoreapp3.1\ClassmatesLab1.csprojAssemblyReference.cache
+C:\Users\just_\source\repos\ClassmatesLab1\ClassmatesLab1\obj\Debug\netcoreapp3.1\ClassmatesLab1.csproj.CoreCompileInputs.cache
+C:\Users\just_\source\repos\ClassmatesLab1\ClassmatesLab1\obj\Debug\netcoreapp3.1\ClassmatesLab1.AssemblyInfoInputs.cache
+C:\Users\just_\source\repos\ClassmatesLab1\ClassmatesLab1\obj\Debug\netcoreapp3.1\ClassmatesLab1.AssemblyInfo.cs
+C:\Users\just_\source\repos\ClassmatesLab1\ClassmatesLab1\obj\Debug\netcoreapp3.1\ClassmatesLab1.dll
+C:\Users\just_\source\repos\ClassmatesLab1\ClassmatesLab1\obj\Debug\netcoreapp3.1\ClassmatesLab1.pdb
+C:\Users\just_\source\repos\ClassmatesLab1\ClassmatesLab1\obj\Debug\netcoreapp3.1\ClassmatesLab1.genruntimeconfig.cache
